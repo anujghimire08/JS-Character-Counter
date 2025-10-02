@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container {
+  width: 100%;
+  max-width: 350px;
+  min-width: 250px;
+  background-color: red;
+  padding: 20px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+.container h2 {
+  color: white;
+  text-align: center;
+}
+.container #textInput {
+  width: 100%;
+  padding-top: 10px;
+  padding-left: 6px;
+  font-size: 20px;
+}
+#charCount {
+  width: 100%;
+  background-color: white;
+  text-align: center;
+}

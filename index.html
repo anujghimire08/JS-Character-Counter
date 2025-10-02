@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JS Char Counter</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h2>JS Character Counter</h2>
+      <textarea
+        oninput="charCount()"
+        id="textInput"
+        placeholder="Type something..."
+        rows="3"
+        cols="30"
+      ></textarea>
+      <div id="charCount">
+        Character Count: <span class="charValue">0</span>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
