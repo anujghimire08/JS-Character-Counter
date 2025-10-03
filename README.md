@@ -23,7 +23,8 @@ A simple, responsive web application built using **HTML, CSS, and JavaScript** t
 
 | HTML | CSS | JavaScript | Draw.io |
 |:----:|:---:|:----------:|:-------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drawio/drawio-original.svg" width="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | ![Draw.io](https://img.shields.io/badge/Draw.io-FF7F00?style=for-the-badge&logo=draw.io&logoColor=white) |
+
 
 
 ---
