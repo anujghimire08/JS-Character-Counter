@@ -4,6 +4,11 @@ A simple, responsive web application built using **HTML, CSS, and JavaScript** t
 
 ---
 
+## 🌐 Live Preview
+
+[🔗 Click here to view the live project](https://anujghimire08.github.io/JS-Character-Counter/)
+
+
 ## 🌟 Features
 
 - Real-time character count as you type.
@@ -13,11 +18,13 @@ A simple, responsive web application built using **HTML, CSS, and JavaScript** t
 
 ---
 
+
 ## 💻 Technologies Used
 
-| HTML | CSS | JavaScript | Live Preview |
-|:----:|:---:|:----------:|:------------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://img.icons8.com/ios-filled/50/000000/external-link.png" width="30"/> [Live Preview](https://anujghimire08.github.io/JS-Character-Counter/) |
+| HTML | CSS | JavaScript | Draw.io |
+|:----:|:---:|:----------:|:-------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drawio/drawio-original.svg" width="40"/> |
+
 
 ---
 
